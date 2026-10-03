@@ -34,7 +34,7 @@ flowchart LR
 
 ## 🧩 Topic Design
 
-See [`docs/topic-design.md`](docs/topic-design.md) for trigger phrases, variables and conversation flow of each topic.
+See [`docs/topic-design.md`](topic-design.md) for trigger phrases, variables and conversation flow of each topic.
 
 ## 🔐 Configuration
 
@@ -45,7 +45,7 @@ See [`docs/topic-design.md`](docs/topic-design.md) for trigger phrases, variable
 
 ## 🧪 Testing
 
-[`docs/test-cases.md`](docs/test-cases.md) lists the questions used to validate accuracy, citations and fallbacks before publishing.
+[`docs/test-cases.md`](test-cases.md) lists the questions used to validate accuracy, citations and fallbacks before publishing.
 
 ## 📁 Structure
 
